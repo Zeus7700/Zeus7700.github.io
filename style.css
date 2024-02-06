@@ -144,3 +144,14 @@ a:hover{
 .Dropdown_Icon span:first-child{
     transform: none;
 }
+
+.Coming_Soon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    width: 100%;
+    font-size: xx-large;
+    font-weight: bold;
+  
+}
